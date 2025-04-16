@@ -5,6 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Alerta quando clicar no título principal
     const titulo = document.querySelector('h1');
     titulo.addEventListener('click', function() {
-        alert('Você clicou no título!');
+        alert('Clica aqui não caraio &#129324;!');
     });
 });
